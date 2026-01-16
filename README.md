@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since:  2024<br>📚 I'm currently learning:  Java<br>🎯 Goals: Improve Skills and Enter the Job Market<br>🎲 Fun fact: i often drink coffee like coding java</p>
+<p align="left">✨ Coding since:  2024<br>📚 I'm currently learning:  Java<br>🎯 Goals: Improve Skills and Enter the Job Market<br>🎲 Fun fact: i often drink coffee while coding java</p>
 
 ###
 
